@@ -1,0 +1,1 @@
+{'mean_sample': 116.64, 'mean_population': 120.89453125}
